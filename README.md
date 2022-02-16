@@ -231,3 +231,4 @@ export class AppComponent {
 
 
 ## Result:
+Thus we have successfully designed the dynamic website to perform mathematical calculations using Angular Framework.
